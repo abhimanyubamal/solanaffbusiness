@@ -609,6 +609,10 @@
         grid-row: 11/13;
         grid-column: 3/5;
     }
+
+    .display-img-none{
+        display: none;
+    }
 }
 
 /* TIMELINE */
